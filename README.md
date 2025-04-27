@@ -3,17 +3,6 @@
 Gemini-OpenAI-Proxy is a proxy designed to convert the OpenAI API protocol to the Google Gemini protocol. This enables applications built for the OpenAI API to seamlessly communicate with the Gemini protocol, including support for Chat Completion, Embeddings, and Model(s) endpoints.
 
 ---
-
-## Table of Contents
-
-- [Gemini-OpenAI-Proxy](#gemini-openai-proxy)
-  - [Table of Contents](#table-of-contents)
-  - [Build](#build)
-  - [Deploy](#deploy)
-  - [Usage](#usage)
-  - [Compatibility](#compatibility)
-  - [License](#license)
-
 ---
 
 ## Build
