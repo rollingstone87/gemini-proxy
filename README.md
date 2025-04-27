@@ -21,7 +21,9 @@ Gemini-OpenAI-Proxy is a proxy designed to convert the OpenAI API protocol to th
 To build the Gemini-OpenAI-Proxy, follow these steps:
 
 ```bash
-go build -o gemini main.go
+git clone
+cd
+docker build -t gemini-proxy .
 ```
 
 ---
